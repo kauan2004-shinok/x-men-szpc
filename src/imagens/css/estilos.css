@@ -51,8 +51,7 @@ opacity: 0.2;
     font-size: 20px;
     letter-spacing: 4px;
     text-transform: uppercase;
-    border-bottom: 2px solid 
-    #47f4ff;
+    border-bottom: 2px solid  #47f4ff;
     width: 100%;
     text-align: center;
 
@@ -80,12 +79,10 @@ img{
     height: 400px;
 }
 
-
 .personagem-selecionado .nome-personagem{
     border-bottom: 2px solid #47f4ff;
     letter-spacing: 4px;
     text-transform: uppercase;
-
 }
 
 .personagem-selecionado .descricao-personagem{
